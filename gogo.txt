@@ -1,0 +1,11 @@
+html basic code
+<!DOCTYPE html>
+<html>
+<head>
+<title>this is the title</title>
+</head>
+<body>
+<h1>HELLO</h1>
+<p>WORLD</p>
+</body>
+</html>
